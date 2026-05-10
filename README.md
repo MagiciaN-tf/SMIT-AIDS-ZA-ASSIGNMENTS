@@ -1,29 +1,40 @@
-# 🚀 SMIT AI & Data Science Assignments
+# SMIT AI & Data Science Assignments
 
-This repository contains all my assignments and practice work for the **SMIT AI and Data Science course**.
+This repository contains my assignments for the SMIT AI & Data Science course.
 
 ---
 
-## 📚 Contents
-- Python Basics
-- Input / Output Programs
+## Topics Covered
+
 - String Functions
 - Type Casting
-- Operators
-- If-Else (Nested Conditions)
-- Mini Projects
+- Input Handling
+- Operators (Arithmetic, Logical, Comparison)
+- If-Else (Simple & Nested Conditions)
+- Problem Solving (Mini Programs)
 
 ---
 
-## 📂 Files
-- `assignment1.ipynb` → Contains 60 Python problems and solutions
+## Assignment 1
+
+This assignment includes **60 Python questions** based on the following topics:
+
+- Strings & string methods
+- Input / Output handling
+- Type conversion (int, float, str)
+- Arithmetic, Comparison & Logical operators
+- If-Else and Nested If-Else logic
 
 ---
 
-## 🎯 Purpose
-This repo is maintained for learning and practice purposes in AI & Data Science journey.
+## File Included
+
+- `assignment1.ipynb` → Contains all 60 solved Python questions
 
 ---
 
-## 👨‍💻 Author
-Muhammad Talha Uddin
+## Purpose
+
+This assignment is created to strengthen Python fundamentals and logical thinking as part of the AI & Data Science learning journey.
+
+---
