@@ -24,12 +24,26 @@ This assignment includes **60 Python questions** based on the following topics:
 - Type conversion (int, float, str)
 - Arithmetic, Comparison & Logical operators
 - If-Else and Nested If-Else logic
-
----
-
+  
 ## File Included
 
-- `assignment1.ipynb` → Contains all 60 solved Python questions
+- `Assignment No1.ipynb` → Contains all 60 solved Python quest
+
+## Assignment 2
+
+This assignment focuses on Python loops and iteration concepts.
+
+### Topics Covered
+- For Loops
+- While Loops
+- Nested Loops
+- Range Function
+- Tables & Patterns
+- Lists with Loops
+- Counting & Iteration Logic
+
+### File Included
+- `Assignment No2.ipynb` → Contains solved Python loop problems
 
 ---
 
